@@ -5,7 +5,7 @@ Note you need to have python and pip installed before you can even run a python 
 > Install python by following the official python installation documentation.
 
 Before it is usable, run:
-
+Open the terminal on the path which you copied the repository. Then run:
 <code>pip install -r requirements.txt</code>
 
 Then you are done. You can run it.
